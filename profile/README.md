@@ -4,7 +4,7 @@ Welcome to our open source page!
 
 ## About App
 
-[![App Store](https://img.shields.io/itunes/v/1554794581?logo=apple&label=Latest%20Release&labelColor=2F4858&color=A8DF8E)][AppStore-Link]
+[![Latest Release](https://img.shields.io/itunes/v/1554794581?logo=apple&label=Latest%20Release&labelColor=2F4858&color=A8DF8E)][ReleaseNotes-Link]
 
 Aidem is a unique app that makes taking notes on videos extremely easy and organized. You can use it to organize, annotate, clip and share videos.
 
@@ -15,6 +15,7 @@ Want to give it a try? Aidem is already available for iPhone, iPad, and Mac.
 [![Download on the App Store](https://raw.githubusercontent.com/AidemX/AidemX.github.io/main/_assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg)][AppStore-Link]
 [![Download on the Mac App Store](https://raw.githubusercontent.com/AidemX/AidemX.github.io/main/_assets/Download_on_the_Mac_App_Store_Badge_US-UK_RGB_blk_092917.svg)][MacAppStore-Link]
 
+[ReleaseNotes-Link]: https://aidem.kjuly.com/#/release_notes
 [AppStore-Link]: https://apps.apple.com/us/app/aidem/id1554794581?platform=iphone
 [MacAppStore-Link]: https://apps.apple.com/us/app/aidem/id1554794581?platform=mac
 
